@@ -1,5 +1,5 @@
 // Julio Collado
-// This program display the color of a rainbow that the user inputed
+// This program displays the color of a rainbow that the user inputed
 // CSC-161-03
 // 2/7/18
 
@@ -15,17 +15,20 @@ public class ClassLabColors
 		String input;
 		String rainbowColor;
 
+
 		Scanner keyboard = new Scanner(System.in);
 
 		System.out.println("\n\n\n");
 
-		System.out.print("Enter a letter that corresponds to a color: ");
-		input = keyboard.nextLine();										// 
-		letter = input.charAt(0);
+		do {
+			System.out.print("\n\nEnter a letter that corresponds to a color: ");
+			input = keyboard.nextLine();										
+			letter = input.charAt(0);
 
-		rainbowColor = getColor(letter);
+			rainbowColor = getColor(letter);
 
-		System.out.println("\nThe letter you choose " + letter + " represents the color " + rainbowColor + ".");
+			System.out.println("\nThe letter you choose " + letter + " represents the color " + rainbowColor + ".");
+		} while(letter != 'X' && letter != 'x');
 
 		System.out.println("\n\n End of Programn \n\n\n");
 

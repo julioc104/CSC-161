@@ -1,5 +1,5 @@
 // Julio Collado
-// pg 184 problem #1 Roman Numerals
+// pg 184 problem #1 Roman Numerals, This program display a roman numeral according to the number that was entered between 1-10
 // CSC-161-03
 // 2/1/2018
 

@@ -1,5 +1,6 @@
 // Julio Collado
 // pg 185 problem #3 Body Mass Index
+// This program asks for your weight and height and determines if you are considered healthy
 // CSC-161-03
 // 2/1/2018
 

@@ -1,0 +1,11 @@
+
+
+  SKU     Quant         Cost        Price       Profit
+
+12345       10      23.45      56.34     328.90
+13456        2      34.96      67.45      64.98
+
+
+The total SKU count is    2
+The total cost is       304.42
+The total Profit is     393.88

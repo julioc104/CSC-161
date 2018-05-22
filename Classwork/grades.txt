@@ -1,0 +1,10 @@
+Jeff 
+3.0 25
+Carl 
+3.8 18
+Karen 
+2.9 37
+Peter 
+3.2 45
+Tracey 
+4.0 56
