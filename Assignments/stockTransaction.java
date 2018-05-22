@@ -1,5 +1,5 @@
 // Julio Collado
-// page 108 #19 using JOptionPane class for input and output
+// page 108 #19 This program determines the amount of profit that joe made.
 // CSC 161-03
 // 1/30/18
 

@@ -1,5 +1,5 @@
 // Julio Collado
-// page 107 #15 using scanner class for input
+// page 107 #15, This program calculates stock commission
 // CSC-161-03
 // 1/30/18
 

@@ -1,5 +1,5 @@
 // Julio Collado
-// pg 184 problem #2 Magic Dates
+// pg 184 problem #2 Magic Dates, This program determines if a date entered is considered a "magic date" or not.
 // CSC-161-03
 // 2/1/2018
 
